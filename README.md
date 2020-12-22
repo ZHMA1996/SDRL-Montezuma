@@ -8,10 +8,10 @@ What I did:
 * Fix the bug and add code snippet for testing in the training process
 * Add the testing code using clingo planner to generate plantrace instead of humanly assigning subgoals
 
-![Testing Curve]('./../assets/SDRL.png')
-
-![Visualizing]('./../assets/SDRL.gif')
-
-
 For those who want to visualize the results, the library atari_py needs to be rebuilt by setting the parameters 'Use SDL' True
+
+![Testing Curve](./assets/SDRL.png)
+
+![Visualizing](./assets/SDRL.gif)
+
 
